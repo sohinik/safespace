@@ -11,7 +11,7 @@ To use safe space, first head over the the "unsafe" page. Then, enter in your pe
 We used HTML, Javascript, and CSS for the frontend, and the backend is supported by Firebase. Additionally, we used Figma to wireframe, and Coolors to create our color palette.
 
 # Domain Challenge
-http://ineedasafe.space
+ineedasafe.space
 
 # YouTube video
 https://youtu.be/dCPauf5MhZw
